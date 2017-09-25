@@ -1,0 +1,25 @@
+{
+  "name": "strings-escape",
+  "version": "1.0.2",
+  "description": "Remove special characters in RegExp",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+  	"RegExp",
+    "escape",
+    "regex",
+    "regexp",
+    "re",
+    "regular",
+    "expression",
+    "string",
+    "str",
+    "special",
+    "characters"
+  ],
+  "author": "Jijo Paulose <jijokp89@gmail.com>",
+  "files": ["index.js"],
+  "license": "MIT"
+}
