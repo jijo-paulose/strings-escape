@@ -1,7 +1,8 @@
 {
   "name": "strings-escape",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Remove special characters in RegExp",
+  "repository": "https://github.com/jijo-paulose/strings-escape",
   "main": "index.js",
   "scripts": {
     "test": ""
